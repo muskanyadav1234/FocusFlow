@@ -1,4 +1,4 @@
-# 🚀 FocusFlow – Smart Task Management Application
+# FocusFlow – Smart Task Management Application
 
 FocusFlow is a modern productivity and task management application designed to help users organize tasks, track progress, and improve daily workflow. The platform provides an intuitive interface for creating, managing, and monitoring tasks with a clean dashboard experience.
 
@@ -8,29 +8,29 @@ The application focuses on improving productivity through smart task organizatio
 
 # ✨ Features
 
-## 📌 Task Management
+## Task Management
 - Create, update, and delete tasks.
 - Organize tasks based on categories and priorities.
 - Track task completion status.
 - Manage daily workflows efficiently.
 
-## 📊 Dashboard Analytics
+## Dashboard Analytics
 - Overview of total tasks.
 - Completed and pending task tracking.
 - Visual representation of productivity progress.
 - Quick access to important activities.
 
-## 🔍 Smart Organization
+## Smart Organization
 - Task filtering and searching.
 - Priority-based task management.
 - Category-wise task grouping.
 
-## 🎨 Modern UI Experience
+## Modern UI Experience
 - Responsive design for desktop and mobile.
 - Clean and minimal user interface.
 - Interactive components for better usability.
 
-## ⚡ Performance
+## Performance
 - Fast development using Vite.
 - Optimized React components.
 - Efficient state management.
@@ -71,7 +71,7 @@ The application focuses on improving productivity through smart task organizatio
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 ```
                 User
@@ -94,7 +94,7 @@ Database        Authentication
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 src/
@@ -172,7 +172,7 @@ src/
 └── vite-env.d.ts
 ```
 
-# ⚙️ Installation & Setup
+# Installation & Setup
 
 ## Prerequisites
 
@@ -191,7 +191,7 @@ npm -v
 
 ---
 
-# 📥 Clone Repository
+# Clone Repository
 
 ```bash
 git clone https://github.com/muskanyadav1234/FocusFlow.git
@@ -205,7 +205,7 @@ cd FocusFlow
 
 ---
 
-# 📦 Install Dependencies
+# Install Dependencies
 
 Using npm:
 
@@ -221,7 +221,7 @@ npm install --legacy-peer-deps
 
 ---
 
-# 🔐 Environment Configuration
+# Environment Configuration
 
 Create a `.env` file in the root directory:
 
@@ -235,7 +235,7 @@ Add your Supabase project credentials.
 
 ---
 
-# ▶️ Run Application
+# Run Application
 
 Start development server:
 
@@ -251,7 +251,7 @@ http://localhost:5173
 
 ---
 
-# 🏗 Production Build
+#  Production Build
 
 Create optimized production build:
 
@@ -267,7 +267,7 @@ npm run preview
 
 ---
 
-# 📊 Future Enhancements
+# Future Enhancements
 
 - AI-based task prioritization
 - Smart productivity recommendations
@@ -279,7 +279,7 @@ npm run preview
 
 ---
 
-# 🤝 Contribution
+# Contribution
 
 Contributions are welcome.
 
@@ -308,7 +308,7 @@ git push origin feature-name
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the MIT License.
 
